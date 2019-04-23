@@ -3,6 +3,7 @@ def gcd( a, b):
         a , b = b , a%b
     return a 
 
+
 def encrypted(e, s , n):
     
     c  =  (int(s)**e) % n
