@@ -1,7 +1,6 @@
 P = int(input("Enter P modulo:"))
 G = int(input("Ente primitive root:"))
 
-
 a = int(input("enter first secret:"))
 b = int(input("enter second secret:"))
 
